@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "717182627672",
+    "firebase_url": "https://novemberfollowalong.firebaseio.com",
+    "project_id": "novemberfollowalong",
+    "storage_bucket": "novemberfollowalong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717182627672:android:b3954cd9edc2e0141f7f2d",
+        "android_client_info": {
+          "package_name": "com.lukban.a29novemberfollowalong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717182627672-uvacbm116k75o3n8ohh4cld1d10h7ia9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lukban.a29novemberfollowalong",
+            "certificate_hash": "fdfbd149c85f70e2b72af32713fd77715bbbbbd6"
+          }
+        },
+        {
+          "client_id": "717182627672-8qjcrik5963nc5ftv3b93bkcvhjuqdor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8tUCR_N0FJ8kg_9CpgikDarF3wGOpKUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717182627672-8qjcrik5963nc5ftv3b93bkcvhjuqdor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

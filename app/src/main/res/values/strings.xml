@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">29NovemberFollowAlong</string>
+    <string-array name="sections">
+        <item>4ITA</item>
+        <item>4ITB</item>
+    </string-array>
+</resources>
